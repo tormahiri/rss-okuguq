@@ -1,3 +1,5 @@
 # rss-okuguq
 
-بۇ rss ئوقۇغۇچ Java تېلىدا يېزىلغان بولۇپ android ئەپ ئاچقۇچىلار بۇ مەنبە كودىدىن پايدىلنىپ wordpressدە قۇرۇلغان بىكەتلەردىن ئۇچۇرلارنى ئوقۇيالايدۇ ،ئەپ ئاچقۇچىلار بۇ مەنبە كودىنى خالىغانچە ئىھتىياجىغا ئاساسەن ئۆزىنىڭ تۈرى بىلەن بىرىكتۈرۋالسا بولىدۇ
+bu rss okuguq java telida yezilgan bolup,android ap aqkuqilar bu manba kodidin paydilnip wordpress supisida kurulgan tor bikatlardin uqur okush maxgulatini nahayti tizla bir tarap kilalaydu,ap aqkuqilar bu manba kodini ozinig turi bilan ehityajiga asasan birikturup eshlatsa bolidu
+
+[eshlitish usuli!](tormahiri.github.io/blog)
