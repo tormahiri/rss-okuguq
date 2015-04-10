@@ -1,11 +1,5 @@
 package com.example.rss_reader;
-/*
- * 
- * 
- * author tormahiri
- * 2015-4-10
- * http://github.com/tormahiri/rss-okuguq
- */
+
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -38,8 +32,14 @@ import android.widget.RelativeLayout;
 
 public class MainActivity extends ActionBarActivity {
 
-	
-	
+	/*
+	 * 
+	 * 
+	 * author tormahiri
+	 * 2015-4-10
+	 * http://github.com/tormahiri/rss-okuguq
+	 */
+	private int san=2;
 	
    private List<String> arrayList;
    private List<String> content;
@@ -133,7 +133,7 @@ private Button btn;
      		try {
      			
      			//http://mouse.arzu3.com//?feed=rss2
-     			url = new URL("http://mouse.arzu3.com//?feed=rss2&paged=2");
+     			url = new URL(adris.TEHIMU_KOP+san++);
      		} catch (MalformedURLException e) {
      			// TODO Auto-generated	` catch block
      			e.printStackTrace();
