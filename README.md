@@ -4,3 +4,6 @@ bu rss okuguq java telida yezilgan bolup,android ap aqkuqilar bu manba kodidin p
 
 eslitish usuli
 ====================
+
+
+ [eslitish usulini buyardin korung](http://tormahiri.github.io/blog/java/2015/03/09/rssokuguqnieslitishi.html).
