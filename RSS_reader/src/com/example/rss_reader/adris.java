@@ -8,8 +8,22 @@ package com.example.rss_reader;
  */
 public class adris {
 
+	/* feed adrisi ni ozgartsigiz analiz keldigan mazmunmu ozgriaydu
+	 * 
+	 *  masilan bu adrislarni astidki ozgarguqi mikdarnig kimmiti kelip biring
+	 *  http://www.hezret.com/feed 
+	 *       
+	 * birinji bat http://mouse.arzu3.com/?feed=rss2
+	 * 
+	 * ekkinji bat http://mouse.arzu3.com/?feed=rss2&paged=
+	 * 
+	 * 
+	 * 
+	 * birinji bat http://www.hezret.com/?freed=rss2
+	 * ekkinji bat http://www.hezret.com/?freed=rss2&paged=
+	 * 
+	 */
 	
-	// feed adrisi
-	// masilan http://www.hezret.com/feed        ,http://mouse.arzu3.com//?feed=rss2
-       public   static String TORBIKAT_ADIRSI="http://mouse.arzu3.com//?feed=rss2";
+       public   static String TORBIKAT_ADIRSI="http://www.alimahat.com/?feed=rss2";
+       public   static String TEHIMU_KOP="http://www.alimahat.com/?feed=rss2&paged=";
 }
